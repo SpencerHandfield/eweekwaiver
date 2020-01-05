@@ -59,7 +59,7 @@ function progressBar () {
     target: '#mainNav',
     offset: 54
   });
-  if (window.location.href === "http://localhost:3000/" || window.location.href === "https://github.com/McGillEWeek/muscarnival.github.io/") {
+  if (window.location.href === "http://localhost:3000/" || window.location.href === "https://https://mcgilleweek.github.io/eweekwaiver/") {
     $(window).blur(pauseVideo)
   }
   window.onbeforeunload = function()) {
